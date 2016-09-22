@@ -1,5 +1,5 @@
 {
-  "name": "integration-help-scout",
+  "name": "@astronomerio/integration-help-scout",
   "version": "1.0.5",
   "private": true,
   "description": "Help Scout server-side integration",
